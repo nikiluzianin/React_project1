@@ -8,6 +8,7 @@ function EmployeeList() {
         <>
             <Header />
             <main>
+
                 <div className="EmployeeCardSpace">
                     <EmployeeCard fullName="Nikita L" role="Coder" department="IT" field1="something" field2="somneting else" />
                     <EmployeeCard fullName="Not Nikita L" role="Not Coder" department="Not IT" field1="something different" field2="somneting else different" />
